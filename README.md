@@ -13,3 +13,10 @@ https://bitcointalk.org/index.php?topic=833129
 
 # License & T&Cs
 Completely free. Use it at your own risk.
+
+# Quick How To
+I've uploaded the runnable jar into root directory. I know it's obviously a big no-no to do this on a code repo, but loads of people want to get this running without programming know how. Any way, download the PriemBot.jar file, place in a directory and run:
+
+java -jar PrimeBot.jar
+
+and it will give you the help. 
